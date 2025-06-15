@@ -36,4 +36,17 @@ dijkstra_algorithm/
 └──  README.md
 ```
 ---
+### Запуск 
+Перед запуском нужно установить дополнительные бибилиотеки:
+```
+pip install networkx matplotlib 
+```
 
+Запуск примеров (из корневой директории):
+```
+python examples/simple_graph.py
+```
+или
+```
+python examples/complex_graph.py
+```
