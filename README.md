@@ -3,15 +3,26 @@
 
 Проект имеет следующую структуру:
 dijkstra_algorithm/
-├── dijkstra/                # Основной модуль
+├── dijkstra/- основной модуль
+
 │   ├── __init__.py
-│   ├── algorithm.py         # Реализация алгоритма Дейкстры
-│   ├── graph.py            # Представление графа
-│   └── visualization.py    # Визуализация графа и пути
-├── examples/               # Примеры использования
+
+│   ├── algorithm.py - реализация алгоритма Дейкстры
+
+│   ├── graph.py - представление графа
+
+│   └── visualization.py - визуализация графа и пути
+
+├── examples/ - примеры использования
+
 │   ├── simple_graph.py
+
 │   └── complex_graph.py
-├── tests/                  # Тесты
+
+├── tests/ - тесты
+
 │   ├── test_algorithm.py
+
 │   └── test_graph.py
+
 └── README.md
