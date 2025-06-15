@@ -8,7 +8,7 @@
 
 ---
 ### Проект имеет следующую структуру:
-
+```
 dijkstra_algorithm/
 
 ├── dijkstra/- основной модуль
@@ -33,5 +33,7 @@ dijkstra_algorithm/
 
 │   └── test_graph.py
 
-└── README.md
+└──  README.md
+```
 ---
+
